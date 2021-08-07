@@ -1,0 +1,16 @@
+{application, logflare_lager_backend,
+ [{description, "Logflare Lager Backend"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib,
+    lager,
+    logflare
+   ]},
+  {env,[]},
+  {modules, [logflare_lager_backend]},
+
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.

@@ -1,0 +1,32 @@
+{"1.2.0",
+[{<<"bert">>,{pkg,<<"bert">>,<<"0.1.0">>},1},
+ {<<"cowlib">>,
+  {git,"https://github.com/ninenines/cowlib",
+       {ref,"e9448e5628c8c1d9083223ff973af8de31a566d1"}},
+  2},
+ {<<"gen_batch_server">>,{pkg,<<"gen_batch_server">>,<<"0.8.6">>},1},
+ {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.9">>},1},
+ {<<"gun">>,
+  {git,"https://github.com/ninenines/gun",
+       {ref,"f9175998687678e227bdd49669e2d83f0648fa57"}},
+  1},
+ {<<"jsone">>,{pkg,<<"jsone">>,<<"1.6.1">>},1},
+ {<<"lager">>,{pkg,<<"lager">>,<<"3.9.2">>},0},
+ {<<"logflare_erl">>,
+  {git,"https://github.com/logflare/logflare_erl",
+       {ref,"5d170b1f2c35145e2cac747883cd718c9e20e87e"}},
+  0}]}.
+[
+{pkg_hash,[
+ {<<"bert">>, <<"A87D6693515070A9B287C1043CB7E5B2406BE0357685022764BFBD2609703555">>},
+ {<<"gen_batch_server">>, <<"712E589A644AFB1DF4EE7B3A3E6182280086631ED5C3283394A27694FE16C0A9">>},
+ {<<"goldrush">>, <<"F06E5D5F1277DA5C413E84D5A2924174182FB108DABB39D5EC548B27424CD106">>},
+ {<<"jsone">>, <<"7EA1098FE004C4127320FE0E3CF6A951B01F82039FEAA56C322DC7E34DD59762">>},
+ {<<"lager">>, <<"4CAB289120EB24964E3886BD22323CB5FEFE4510C076992A23AD18CF85413D8C">>}]},
+{pkg_hash_ext,[
+ {<<"bert">>, <<"2A561521EC3529B248658A3E2D3D4BFE6729B0AB8291C701BF15EF413EDA1506">>},
+ {<<"gen_batch_server">>, <<"B78679349168F27D7047F3283C9D766760B234D98C762ACA9A1907F4EE3FD406">>},
+ {<<"goldrush">>, <<"99CB4128CFFCB3227581E5D4D803D5413FA643F4EB96523F77D9E6937D994CEB">>},
+ {<<"jsone">>, <<"A6C1DF6081DF742068D2ED747A4FE8A7740C56421B53E02BC9D4907DD3502922">>},
+ {<<"lager">>, <<"7F904D9E87A8CB7E66156ED31768D1C8E26EBA1D54F4BC85B1AA4AC1F6340C28">>}]}
+].
